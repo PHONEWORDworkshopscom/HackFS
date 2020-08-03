@@ -2,6 +2,11 @@
 
 PHONEWORD Workshops Global Diretory - 2020-08-02
 
+Summary:
+
+QmNpE7Ffqb1iUC5nAnZ5pTwtGWpN95B6p9G4k6rPs2Act8 2020-08-02/PHONEWORD-Workshops-Global-Directory-2020-08-02.final.pwl
+
+
 root@raspberrypi:/# ipfs add -r /home/pi/HackFS/2020-08-02
 added QmYuT2TLJxccHcD89PM2x3vEkpaocUGG1Fe18tVCrUoRat 2020-08-02/000000000000000-2020-08-02.final.pwl
 added QmVrtwYDXmERo5UrAF2eeSH5xJ7ZubTuSYmYfade5jY4nw 2020-08-02/000000000000000-2020-08-02.preliminary.pwl
@@ -38,6 +43,10 @@ added QmQ8RFJ6DaieXTZddFoYrujjoBmDHxbdLCopbEbZYwyxek 2020-08-02
 
 
 PHONEWORD Workshops Global Diretory - 2020-08-01
+
+Summary:
+
+Qmf6xK2r3Ns4cAnpvhFtr3Adz5TEkEhoVd38qREqcWzpsH 2020-08-01/PHONEWORD-Workshops-Global-Directory-2020-08-01.final.pwl
 
 root@raspberrypi:/# ipfs add -r /home/pi/HackFS/2020-08-01
 added QmSX6qh4vBUuUtGAxdZ7PXAb36W5NuWRsixL4XHjSXtbAb 2020-08-01/000000000000000-2020-08-01.final.pwl
